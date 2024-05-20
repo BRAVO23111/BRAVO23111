@@ -1,5 +1,5 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
-<p align="left"><img serc="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEBANJAN" alt ="banner"/></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo23111&label=Profile%20views&color=0e75b6&style=flat" alt="bravo23111" /> </p>
 
