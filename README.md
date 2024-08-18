@@ -1,3 +1,74 @@
+Color Avatar
+Made by LeoKu
+|
+简体中文
+|
+Code
+{
+    "gender": "male",
+    "wrapperShape": "circle",
+    "background": {
+        "color": "#C09FFF",
+        "borderColor": "#F4D150"
+    },
+    "widgets": {
+        "face": {
+            "shape": "base",
+            "fillColor": "#DEB3A3"
+        },
+        "tops": {
+            "shape": "fonze",
+            "fillColor": "#48A99A"
+        },
+        "ear": {
+            "shape": "detached"
+        },
+        "earrings": {
+            "shape": "none"
+        },
+        "eyebrows": {
+            "shape": "eyelashesup"
+        },
+        "eyes": {
+            "shape": "round"
+        },
+        "nose": {
+            "shape": "pointed"
+        },
+        "glasses": {
+            "shape": "none"
+        },
+        "mouth": {
+            "shape": "smirk"
+        },
+        "beard": {
+            "shape": "none"
+        },
+        "clothes": {
+            "shape": "crew",
+            "fillColor": "#48A99A"
+        }
+    }
+}
+Copy
+Avatar Shape
+Border Color
+Background Color
+Face
+Tops
+Ear
+Earrings
+X
+Eyebrows
+Eyes
+Nose
+Glasses
+X
+Mouth
+Beard
+X
+Clothes
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debanjan Mukherjee
 ==========================================================================================================================================
 
