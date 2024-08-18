@@ -35,5 +35,3 @@ src="https://img.shields.io/github/followers/BRAVO23111?logo=github&style=for-th
 <a href="http://www.github.com/BRAVO23111"><img src="https://github-readme-stats.vercel.app/api?username=BRAVO23111&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="BRAVO23111's GitHub stats" /></a>
 
 <a href="http://www.github.com/BRAVO23111"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BRAVO23111&stroke=0891b2&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/BRAVO23111"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BRAVO23111&bg_color=22272e&color=0891b2&line=0891b2&point=0891b2&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
