@@ -1,20 +1,21 @@
 
-<img src="https://github.com/user-attachments/assets/80753fca-7f32-4ccb-ad68-1e10b40d7b2e" alt="vue-color-avatar" width="300"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debanjan Mukherjee
+Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="left" width="50"/> My name is Debanjan Mukherjee
 ==========================================================================================================================================
 
-Full Stack Developer
---------------------
+### Full Stack Developer
 
 Hi there! I’m a passionate Full Stack Developer from India with experience in building projects using the MERN stack. I’ve also dabbled in DevOps tools like AWS and Docker and have a strong foundation in C++ for data structures and algorithms. Currently, I’m in my final year of college and eager to contribute my skills to exciting projects. I’m well-versed in Git and ready to dedicate up to 40 hours a week to learning and growing. Always excited about new challenges and opportunities to expand my knowledge!
+
+<img src="https://github.com/user-attachments/assets/80753fca-7f32-4ccb-ad68-1e10b40d7b2e" alt="vue-color-avatar" align="left" width="150" style="margin-right: 20px;"/>
 
 * 🌍  I'm based in Kolkata, West Bengal
 * 🖥️  See my portfolio at [https://portfolio-bravo23111s-projects.vercel.app/](http://portfolio-bravo23111s-projects.vercel.app/)
 * ✉️  You can contact me at [debanjanmukherjee015@gmail.com](mailto:debanjanmukherjee015@gmail.com)
-* 🧠  I'm learning Next js , Typescript and Docker
-* 🤝  I'm open to collaborating on Interesting Projects on Full stack (MERN)
-* ⚡  i play Chess more than i code
+* 🧠  I'm learning Next.js, TypeScript, and Docker
+* 🤝  I'm open to collaborating on interesting projects in Full Stack (MERN)
+* ⚡  I play chess more than I code
+
 
 <a href="https://www.github.com/BRAVO23111" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BRAVO23111?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
