@@ -1,5 +1,5 @@
 
-![vue-color-avatar](https://github.com/user-attachments/assets/80753fca-7f32-4ccb-ad68-1e10b40d7b2e)
+<img src="https://github.com/user-attachments/assets/80753fca-7f32-4ccb-ad68-1e10b40d7b2e" alt="vue-color-avatar" width="300"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debanjan Mukherjee
 ==========================================================================================================================================
