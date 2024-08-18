@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I am Debanjan Mukherjee
 🔭 I’m currently working on NextJs , Typescript and Docker<br>👯 I’m looking to collaborate on Web Dev Projects<br>🤝 I’m looking for help with Learning new Technologies<br>🌱 I’m currently learning about Docker , AWS<br>💬 Ask me about MERN stack<br>⚡ Fun fact I play chess
 
 
