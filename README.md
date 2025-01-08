@@ -38,4 +38,4 @@ src="https://img.shields.io/github/followers/BRAVO23111?logo=github&style=for-th
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="BRAVO23111's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BRAVO23111?cardType=level&theme=github-dark&preferLogin=false" />  </a>
 
-<a href="http://www.github.com/BRAVO23111"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BRAVO23111&stroke=0891b2&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=0891b2&currStreakLabel=22c55e&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BRAVO23111&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
